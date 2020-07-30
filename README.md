@@ -1,0 +1,2 @@
+## Hardware-generator-for-deep-convolutional-neural-networks
+The objective of this project was to design the 1D convolution engine using memories and arithmetic units which used AXI protocol and synthesize the code using Synopsys compiler. Designed, simulated and synthesized 3-layers of the convolution using parameterizable HDL generation tool in C++ using multiplier budget and simulating on Model-sim.
